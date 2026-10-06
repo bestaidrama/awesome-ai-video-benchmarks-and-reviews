@@ -106,6 +106,7 @@ Hands-on roundups, user-review platforms, tool directories, and registers that q
 - [Uneed](https://www.uneed.best/) — Daily product launches with community votes.
 - [Unite.AI — Best AI video generators](https://www.unite.ai/best-ai-video-generators/) — A monthly-updated list of ten AI video generators.
 - [VideoGenReview](https://videogenreview.com/) — What each AI video model's release notes say changed. Data: CSV, CC BY 4.0.
+- [Viral AI Trends — Status tracker](https://viralaitrends.com/shutdowns/) — Whether each of 50 AI video tools still serves a working product, checked by direct domain request on the date shown on the page. Data: CSV, CC0 1.0.
 - [Zapier — The best AI video generators](https://zapier.com/blog/best-ai-video-generator/) — A tested roundup of 16 AI video generators, updated for 2026.
 
 ## News and communities
