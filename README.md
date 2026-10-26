@@ -1,5 +1,6 @@
 # Awesome AI Video Benchmarks and Reviews
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 > Where to check what an AI video tool actually does before paying for it: leaderboards where models are voted on or measured, hands-on roundups, user-review platforms, tool directories, registers that quote vendor pages with the reading date, and the news sections and communities that track releases. 90 sites. No rankings here; each page states its own method. Updated 2026-09-27.
 
 Sister lists: [awesome-ai-video-generators](https://github.com/ai-video-index/awesome-ai-video-generators) — the tools themselves; [awesome-ai-drama-generators](https://github.com/ai-video-index/awesome-ai-drama-generators) — script-to-episodes tools and festivals.
