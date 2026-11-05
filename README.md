@@ -105,6 +105,7 @@ Hands-on roundups, user-review platforms, tool directories, and registers that q
 - [Toolify](https://www.toolify.ai/) — AI tool directory with traffic estimates per tool.
 - [Uneed](https://www.uneed.best/) — Daily product launches with community votes.
 - [Unite.AI — Best AI video generators](https://www.unite.ai/best-ai-video-generators/) — A monthly-updated list of ten AI video generators.
+- [VideoFreeTier](https://videofreetier.com/data/) — Dated free-tier observations for twelve AI video models, one row per figure with the channel and the date it was observed. Data: CSV, JSON and Markdown, CC BY 4.0.
 - [VideoGenReview](https://videogenreview.com/) — What each AI video model's release notes say changed. Data: CSV, CC BY 4.0.
 - [Zapier — The best AI video generators](https://zapier.com/blog/best-ai-video-generator/) — A tested roundup of 16 AI video generators, updated for 2026.
 
