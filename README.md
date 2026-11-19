@@ -107,6 +107,7 @@ Hands-on roundups, user-review platforms, tool directories, and registers that q
 - [Unite.AI — Best AI video generators](https://www.unite.ai/best-ai-video-generators/) — A monthly-updated list of ten AI video generators.
 - [VideoGenReview](https://videogenreview.com/) — What each AI video model's release notes say changed. Data: CSV, CC BY 4.0.
 - [Zapier — The best AI video generators](https://zapier.com/blog/best-ai-video-generator/) — A tested roundup of 16 AI video generators, updated for 2026.
+- [Highworth AI](https://highworth.ai/) — Community worth-it scores for AI video models (Veo, Kling, Runway, Seedance and others), aggregated from real user reviews on Hacker News, Reddit, V2EX and Bilibili; every quote links to its source.
 
 ## News and communities
 
